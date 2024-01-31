@@ -26,7 +26,7 @@ This project is a browser-based implementation of the classic Tic Tac Toe game u
 
 ### Usage
 
-To play the Tic Tac Toe game, simply open the `index.html` file in a web browser that supports JavaScript. Follow the on-screen instructions to take turns marking X's and O's on the grid. The game automatically detects winning combinations and declares a winner or a draw.
+To play the Tic Tac Toe game, simply open the link "https://parthkishan20.github.io/tic-tac-toe/" a web browser that supports JavaScript. Follow the on-screen instructions to take turns marking X's and O's on the grid. The game automatically detects winning combinations and declares a winner or a draw.
 
 ### Getting Started
 
